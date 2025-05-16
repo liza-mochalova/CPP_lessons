@@ -7,6 +7,6 @@ int main(){
     Time* time = new Time;
     time->Read();
     time->Print();
-    delite time;
+    delete time;
     return 0;
 }
