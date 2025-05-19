@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lizamochalova/CPP_project/lesson_2/lesson_2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D60, symSize: 0xF8 }
+  - { offsetInCU: 0x2DD7, offset: 0x2DD7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D60, symSize: 0xF8 }
+  - { offsetInCU: 0x2EAC, offset: 0x2EAC, size: 0x8, addend: 0x0, symName: __ZN4DateC1Eiii, symObjAddr: 0xF8, symBinAddr: 0x100003E58, symSize: 0x44 }
+  - { offsetInCU: 0x2F9D, offset: 0x2F9D, size: 0x8, addend: 0x0, symName: __ZN4TimeC1Eiii, symObjAddr: 0x13C, symBinAddr: 0x100003E9C, symSize: 0x44 }
+  - { offsetInCU: 0x2FEF, offset: 0x2FEF, size: 0x8, addend: 0x0, symName: __ZN4DateC2Eiii, symObjAddr: 0x180, symBinAddr: 0x100003EE0, symSize: 0x38 }
+  - { offsetInCU: 0x3041, offset: 0x3041, size: 0x8, addend: 0x0, symName: __ZN4TimeC2Eiii, symObjAddr: 0x1B8, symBinAddr: 0x100003F18, symSize: 0x38 }
+...
